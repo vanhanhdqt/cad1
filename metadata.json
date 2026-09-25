@@ -1,0 +1,9 @@
+{
+  "name": "CAD/MEP Drawing Intelligence & Digital Twin",
+  "description": "AI CAD/MEP Drawing Intelligence, Quantity Takeoff, Photo-to-Asset Matching, and Digital Twin integrated with Google Workspace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
